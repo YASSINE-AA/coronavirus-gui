@@ -3,3 +3,5 @@ A simple GUI application that allows you to see the current confirmed cases, dea
 You simply type in a country's name, and voila!
 
 This uses PySide2 for GUI and BeautifulSoup to get data from the web.
+
+![](screenshot_coronavirus_gui.png)
