@@ -10,7 +10,7 @@ class MainWindow(QMainWindow):
         self.InitWindow()
 
     def InitWindow(self):
-        self.setWindowTitle("Coronacases")
+        self.setWindowTitle("Coronavirus cases")
         self.setFixedSize(370,  180)
         self.ui_components()
 
